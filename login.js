@@ -8,7 +8,7 @@ export default function Login(props){
         <View style={styles.login}>
             <Text>This is the Login Screen</Text>
             <Button title="Log In" onPress={()=>{
-                console.log("Hello Team Scrum 7: Jesse")
+                console.log("Hello Team Scrum 7: Jesse Logan Makai")
             }}></Button>
         </View>
 
