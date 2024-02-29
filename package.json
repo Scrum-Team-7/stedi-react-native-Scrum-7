@@ -19,3 +19,5 @@
     "author": "Sean Murdock",
     "license": "ISC"
     }
+
+    "scripts":{ "test":"jest" } 
